@@ -86,25 +86,6 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_gHvhsDcCEfC0sbUky1MobA",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ {
-    "id" : "built-in",
-    "version" : "Latest",
-    "type" : "context"
-  }, {
-    "id" : "_36XUgDZhEfC3BIEfcATmFw",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_36XUgDZhEfC3BIEfcATmFw - AUDIT",
-    "version" : "Latest",
-    "type" : "schema"
-  } ]
-}, {
-  "baseItem" : {
     "id" : "_sjnGgDTTEfCtt9qnUZhGIw",
     "version" : "0.1",
     "type" : "job"
