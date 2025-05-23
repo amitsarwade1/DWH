@@ -8,6 +8,10 @@
     "id" : "built-in",
     "version" : "Latest",
     "type" : "context"
+  }, {
+    "id" : "DWH:_PrJkoDfMEfC-paMVSQew1g",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 }, {
   "baseItem" : {
@@ -19,6 +23,10 @@
     "id" : "built-in",
     "version" : "Latest",
     "type" : "context"
+  }, {
+    "id" : "DWH:_PrJkoDfMEfC-paMVSQew1g",
+    "version" : "Latest",
+    "type" : "job"
   }, {
     "id" : "_36XUgDZhEfC3BIEfcATmFw",
     "version" : "Latest",
@@ -34,6 +42,10 @@
     "id" : "built-in",
     "version" : "Latest",
     "type" : "context"
+  }, {
+    "id" : "DWH:_PrJkoDfMEfC-paMVSQew1g",
+    "version" : "Latest",
+    "type" : "job"
   }, {
     "id" : "_36XUgDZhEfC3BIEfcATmFw",
     "version" : "Latest",
@@ -57,6 +69,10 @@
     "id" : "built-in",
     "version" : "Latest",
     "type" : "context"
+  }, {
+    "id" : "DWH:_PrJkoDfMEfC-paMVSQew1g",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 }, {
   "baseItem" : {
@@ -69,9 +85,32 @@
     "version" : "Latest",
     "type" : "context"
   }, {
+    "id" : "DWH:_PrJkoDfMEfC-paMVSQew1g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
     "id" : "_36XUgDZhEfC3BIEfcATmFw",
     "version" : "Latest",
     "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_PrJkoDfMEfC-paMVSQew1g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_36XUgDZhEfC3BIEfcATmFw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_36XUgDZhEfC3BIEfcATmFw - AUDIT",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
